@@ -1,6 +1,6 @@
 # Hugo variables
 #
-baseurl = "https://opramachine-blog.netlify.com/"
+baseurl = "https://blog.opramachine.com/"
 languageCode = "en-us"
 title = "OPRAmachine Blog"
 theme = "hugo-theme-bootstrap4-blog"
