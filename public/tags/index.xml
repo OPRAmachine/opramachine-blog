@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on OPRAmachine Blog</title>
+    <link>https://blog.opramachine.com/tags/</link>
+    <description>Recent content in Tags on OPRAmachine Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Dec 2017 06:01:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.opramachine.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opramachine Documentation</title>
+      <link>https://blog.opramachine.com/tags/opramachine-documentation/</link>
+      <pubDate>Mon, 25 Dec 2017 06:01:17 +0000</pubDate>
+      
+      <guid>https://blog.opramachine.com/tags/opramachine-documentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
