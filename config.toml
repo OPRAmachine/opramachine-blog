@@ -1,4 +1,4 @@
-baseurl = "https://opramachine-blog.netlify.com"
+baseurl = "https://blog.opramachine.com"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "OPRAmachine Blog"
