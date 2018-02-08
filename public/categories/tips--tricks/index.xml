@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tips  Tricks on OPRAmachine Blog</title>
-    <link>localhost:1313/categories/tips--tricks/</link>
+    <link>https://blog.opramachine.com/categories/tips--tricks/</link>
     <description>Recent content in Tips  Tricks on OPRAmachine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Dec 2017 01:22:29 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/categories/tips--tricks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.opramachine.com/categories/tips--tricks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Webcast: Obtaining court documents &amp; settlement agreements with OPRAmachine</title>
-      <link>localhost:1313/webcast-obtaining-court-documents-settlement-agreements-with-opramachine/</link>
+      <link>https://blog.opramachine.com/webcast-obtaining-court-documents-settlement-agreements-with-opramachine/</link>
       <pubDate>Sun, 10 Dec 2017 01:22:29 +0000</pubDate>
       
-      <guid>localhost:1313/webcast-obtaining-court-documents-settlement-agreements-with-opramachine/</guid>
+      <guid>https://blog.opramachine.com/webcast-obtaining-court-documents-settlement-agreements-with-opramachine/</guid>
       <description> In this video, we show examples of successful requests for legal documents served on state &amp;amp; local government submitted by users of OPRAmachine, in addition to covering how to use New Jersey state court databases to obtain information about active lawsuits.  &amp;nbsp;
 The links to the two state court databases used in this webcast are as follows: New Jersey Superior Court ACMS Public Access New Jersey Superior Court Civil Motion Calendar </description>
     </item>
     
     <item>
       <title>Track your town’s public records requests on OPRAmachine</title>
-      <link>localhost:1313/track-your-towns-public-records-requests-on-opramachine/</link>
+      <link>https://blog.opramachine.com/track-your-towns-public-records-requests-on-opramachine/</link>
       <pubDate>Fri, 24 Nov 2017 15:05:19 +0000</pubDate>
       
-      <guid>localhost:1313/track-your-towns-public-records-requests-on-opramachine/</guid>
+      <guid>https://blog.opramachine.com/track-your-towns-public-records-requests-on-opramachine/</guid>
       <description>You can use OPRAmachine to easily receive email alerts for specific towns and government agencies as they receive and respond to requests for public records made using our website. Even if you don&amp;#8217;t use the site to make your own public records requests, you can become informed about the activities of New Jersey state and local government with OPRAmachine email alerts tailored specifically to the towns and requests you&amp;#8217;d like to follow.</description>
     </item>
     
