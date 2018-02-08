@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opramachine News on OPRAmachine Blog</title>
-    <link>http://localhost:1313/categories/opramachine-news/</link>
+    <link>https://opramachine-blog.netlify.com/categories/opramachine-news/</link>
     <description>Recent content in Opramachine News on OPRAmachine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>gr@gavinrozzi.com (Gavin Rozzi)</managingEditor>
     <webMaster>gr@gavinrozzi.com (Gavin Rozzi)</webMaster>
     <lastBuildDate>Mon, 25 Dec 2017 16:37:35 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/opramachine-news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://opramachine-blog.netlify.com/categories/opramachine-news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Merry Christmas from the OPRAmachine team</title>
-      <link>http://localhost:1313/merry-christmas-from-the-opramachine-team/</link>
+      <link>https://opramachine-blog.netlify.com/merry-christmas-from-the-opramachine-team/</link>
       <pubDate>Mon, 25 Dec 2017 16:37:35 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>http://localhost:1313/merry-christmas-from-the-opramachine-team/</guid>
+      <guid>https://opramachine-blog.netlify.com/merry-christmas-from-the-opramachine-team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New &amp; Improved OPRAmachine Documentation Now Available</title>
-      <link>http://localhost:1313/new-improved-opramachine-documentation-now-available/</link>
+      <link>https://opramachine-blog.netlify.com/new-improved-opramachine-documentation-now-available/</link>
       <pubDate>Mon, 25 Dec 2017 06:01:17 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>http://localhost:1313/new-improved-opramachine-documentation-now-available/</guid>
+      <guid>https://opramachine-blog.netlify.com/new-improved-opramachine-documentation-now-available/</guid>
       <description>Today, OPRAmachine announces the launch of our new documentation website, docs.opramachine.com. Our new documentation website is designed to be a centralized hub for answers to some of the frequently asked questions received by the site administration about how the site works. The new documentation website will include request templates, guides on how to use the site&amp;#8217;s functionality, as well as specific guides for requesters and custodians of records making use of OPRAmachine.</description>
     </item>
     
     <item>
       <title>Gavin Rozzi interviewed about OPRAmachine</title>
-      <link>http://localhost:1313/gavin-rozzi-interviewed-about-opramachine/</link>
+      <link>https://opramachine-blog.netlify.com/gavin-rozzi-interviewed-about-opramachine/</link>
       <pubDate>Wed, 06 Dec 2017 19:16:15 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>http://localhost:1313/gavin-rozzi-interviewed-about-opramachine/</guid>
+      <guid>https://opramachine-blog.netlify.com/gavin-rozzi-interviewed-about-opramachine/</guid>
       <description>OPRAmachine founder Gavin Rozzi was recently interviewed about the site&amp;#8217;s first month by the mySociety Foundation, a UK-based nonprofit that created the software that powers the site. Read the full interview here.</description>
     </item>
     

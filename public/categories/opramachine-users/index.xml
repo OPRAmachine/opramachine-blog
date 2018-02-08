@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opramachine Users on OPRAmachine Blog</title>
-    <link>http://localhost:1313/categories/opramachine-users/</link>
+    <link>https://opramachine-blog.netlify.com/categories/opramachine-users/</link>
     <description>Recent content in Opramachine Users on OPRAmachine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>gr@gavinrozzi.com (Gavin Rozzi)</managingEditor>
     <webMaster>gr@gavinrozzi.com (Gavin Rozzi)</webMaster>
     <lastBuildDate>Mon, 04 Dec 2017 18:10:02 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/opramachine-users/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://opramachine-blog.netlify.com/categories/opramachine-users/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Case Study: Local News Website Uses OPRAmachine to Uncover Out-of-Court Sexual Harassment Settlements</title>
-      <link>http://localhost:1313/case-study-local-news-website-uses-opramachine-to-uncover-out-of-court-sexual-harassment-settlements/</link>
+      <link>https://opramachine-blog.netlify.com/case-study-local-news-website-uses-opramachine-to-uncover-out-of-court-sexual-harassment-settlements/</link>
       <pubDate>Mon, 04 Dec 2017 18:10:02 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>http://localhost:1313/case-study-local-news-website-uses-opramachine-to-uncover-out-of-court-sexual-harassment-settlements/</guid>
+      <guid>https://opramachine-blog.netlify.com/case-study-local-news-website-uses-opramachine-to-uncover-out-of-court-sexual-harassment-settlements/</guid>
       <description>ATLANTIC COUNTY &amp;#8211; One local news website editor is using OPRAmachine&amp;#8217;s ability to obtain public records to write about sexual harassment claims that were settled by county officials, reporting details that were previously unknown to the public with the help of our system.
 This weekend local news site Atlantic County News published an article detailing how that site&amp;#8217;s editor made use of OPRAmachine in order to obtain records regarding several recent out-of-court sexual harassment settlements that involved allegations made against county officials.</description>
     </item>
