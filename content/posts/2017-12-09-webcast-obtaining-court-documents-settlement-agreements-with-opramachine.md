@@ -6,7 +6,7 @@ date: 2017-12-10T01:22:29+00:00
 url: /webcast-obtaining-court-documents-settlement-agreements-with-opramachine/
 featured_image: https://blog.opramachine.com/wp-content/uploads/2017/12/Ocean_County_Courthouse.jpg
 categories:
-  - 'Tips &amp; Tricks'
+  - 'Tips & Tricks'
 format: video
 
 ---

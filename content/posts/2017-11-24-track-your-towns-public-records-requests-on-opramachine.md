@@ -6,7 +6,7 @@ date: 2017-11-24T15:05:19+00:00
 url: /track-your-towns-public-records-requests-on-opramachine/
 featured_image: https://blog.opramachine.com/wp-content/uploads/2017/11/tracktown.gif
 categories:
-  - 'Tips &amp; Tricks'
+  - 'Tips & Tricks'
 
 ---
 #### You can use OPRAmachine to easily receive email alerts for specific towns and government agencies as they receive and respond to requests for public records made using our website.
