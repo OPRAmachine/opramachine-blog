@@ -36,9 +36,9 @@ pygmentOptions = "linenos=table"
 #  desc = "Hexagon"
 
 [Author]
-  name = "Gavin Rozzi"
+  name = "OPRAmachine"
   website = "https://gavinrozzi.com"
-  email = "gr@gavinrozzi.com"
+  email = "Gavin Rozzi"
   facebook = "opramachine"
   github = "gavinrozzi"
   twitter = "opramachine"

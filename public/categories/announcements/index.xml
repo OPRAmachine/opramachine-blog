@@ -5,8 +5,8 @@
     <link>https://opramachine-blog.netlify.com/categories/announcements/</link>
     <description>Recent content in Announcements on OPRAmachine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>gr@gavinrozzi.com (Gavin Rozzi)</managingEditor>
-    <webMaster>gr@gavinrozzi.com (Gavin Rozzi)</webMaster>
+    <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
+    <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
     <lastBuildDate>Tue, 30 Jan 2018 23:55:25 +0000</lastBuildDate>
     
 	<atom:link href="https://opramachine-blog.netlify.com/categories/announcements/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>Downloadable database of OPRA requests now available</title>
       <link>https://opramachine-blog.netlify.com/downloadable-database-of-opra-requests-now-available/</link>
       <pubDate>Tue, 30 Jan 2018 23:55:25 +0000</pubDate>
-      <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
+      <author>Gavin Rozzi (OPRAmachine)</author>
       <guid>https://opramachine-blog.netlify.com/downloadable-database-of-opra-requests-now-available/</guid>
       <description>We are making available a downloadable database of all OPRA requests filed through OPRAmachine for analysis and research purposes. The database will include an index of all OPRA requests filed through OPRAmachine, as well as the current state of each request. We hope this database will be a valuable research tool for those studying OPRA and state &amp;amp; local government in New Jersey.
 The database can be obtained in SQLite or CSV format, in addition to being able to be accessed over the morph.</description>
@@ -26,7 +26,7 @@ The database can be obtained in SQLite or CSV format, in addition to being able 
       <title>New &amp; Improved OPRAmachine Documentation Now Available</title>
       <link>https://opramachine-blog.netlify.com/new-improved-opramachine-documentation-now-available/</link>
       <pubDate>Mon, 25 Dec 2017 06:01:17 +0000</pubDate>
-      <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
+      <author>Gavin Rozzi (OPRAmachine)</author>
       <guid>https://opramachine-blog.netlify.com/new-improved-opramachine-documentation-now-available/</guid>
       <description>Today, OPRAmachine announces the launch of our new documentation website, docs.opramachine.com. Our new documentation website is designed to be a centralized hub for answers to some of the frequently asked questions received by the site administration about how the site works. The new documentation website will include request templates, guides on how to use the site&amp;#8217;s functionality, as well as specific guides for requesters and custodians of records making use of OPRAmachine.</description>
     </item>
@@ -35,7 +35,7 @@ The database can be obtained in SQLite or CSV format, in addition to being able 
       <title>Sunlight Foundation Covers Launch of OPRAmachine</title>
       <link>https://opramachine-blog.netlify.com/sunlight-foundation-covers-launch-of-opramachine/</link>
       <pubDate>Mon, 18 Dec 2017 02:59:31 +0000</pubDate>
-      <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
+      <author>Gavin Rozzi (OPRAmachine)</author>
       <guid>https://opramachine-blog.netlify.com/sunlight-foundation-covers-launch-of-opramachine/</guid>
       <description>The Sunlight Foundation, a respected nonprofit that focuses on governmental transparency issues, recently covered the launch of OPRAmachine. In the charity&amp;#8217;s &amp;#8220;Today in OpenGov&amp;#8221; blog series, they highlighted OPRAmachine as &amp;#8220;&amp;#8230;the first implementation of the Alaveteli platform, to operate purely at the state and local level.&amp;#8221;
 Read their full blog post here.
@@ -46,7 +46,7 @@ Read their full blog post here.
       <title>1000 Requests</title>
       <link>https://opramachine-blog.netlify.com/1000-requests/</link>
       <pubDate>Fri, 08 Dec 2017 05:42:07 +0000</pubDate>
-      <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
+      <author>Gavin Rozzi (OPRAmachine)</author>
       <guid>https://opramachine-blog.netlify.com/1000-requests/</guid>
       <description>Yesterday, we celebrated the milestone of 1000 OPRA requests filed via OPRAmachine since our launch in late October. Thousands of pages of government documents are now freely available to members of the public on our site. Thank you to our supporters, users and the dedicated civil servants who have made this all possible!</description>
     </item>
@@ -55,7 +55,7 @@ Read their full blog post here.
       <title>Delivery issues on some requests</title>
       <link>https://opramachine-blog.netlify.com/delivery-issues-on-some-requests/</link>
       <pubDate>Fri, 17 Nov 2017 22:43:14 +0000</pubDate>
-      <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
+      <author>Gavin Rozzi (OPRAmachine)</author>
       <guid>https://opramachine-blog.netlify.com/delivery-issues-on-some-requests/</guid>
       <description>Some requests have been having delivery issues, currently to at least one municipality and one county. The purpose of this blog post is to provide guidance to both members of public sector IT departments / records custodians and the requestors that use OPRAmachine to request information. Are you a records custodian or government official? Please pass this post along to your IT department. Inevitably, as OPRAmachine users make use of the site&amp;#8217;s capabilities to send requests to more towns, some firewalls may inadvertently prevent our emails from getting delivered.</description>
     </item>
@@ -64,7 +64,7 @@ Read their full blog post here.
       <title>Access the records of every N.J. Municipality</title>
       <link>https://opramachine-blog.netlify.com/access-the-records-of-every-n-j-municipality/</link>
       <pubDate>Tue, 07 Nov 2017 18:20:45 +0000</pubDate>
-      <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
+      <author>Gavin Rozzi (OPRAmachine)</author>
       <guid>https://opramachine-blog.netlify.com/access-the-records-of-every-n-j-municipality/</guid>
       <description>As of today we are proud to announce that OPRAmachine now reaches every municipality in every county of the State of New Jersey. We now have every municipal government added to our database. This is certainly a milestone for OPRAmachine, but our work is far from over. We still need help adding municipal utilities authorities and various county government agencies.
 &amp;nbsp;</description>
@@ -74,7 +74,7 @@ Read their full blog post here.
       <title>Volunteers needed for data collection</title>
       <link>https://opramachine-blog.netlify.com/volunteers-needed-for-data-collection/</link>
       <pubDate>Tue, 18 Jul 2017 14:54:24 +0000</pubDate>
-      <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
+      <author>Gavin Rozzi (OPRAmachine)</author>
       <guid>https://opramachine-blog.netlify.com/volunteers-needed-for-data-collection/</guid>
       <description>We are seeking volunteers to help fill OPRAmachine with more governmental agencies. This is an easy way to get involved in help making government accountable and accessible from the comfort of your home. As it stands now, OPRAmachine will be launching in beta with support for all 33 municipalities, MUAs, school boards and housing authorities for Ocean County. It is the goal of the development team to expand on a county-by-county basis throughout New Jersey in order to bring this powerful tool to more citizens following our launch in Ocean County.</description>
     </item>

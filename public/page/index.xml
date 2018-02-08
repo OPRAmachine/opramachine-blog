@@ -5,8 +5,8 @@
     <link>https://opramachine-blog.netlify.com/page/</link>
     <description>Recent content in Pages on OPRAmachine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>gr@gavinrozzi.com (Gavin Rozzi)</managingEditor>
-    <webMaster>gr@gavinrozzi.com (Gavin Rozzi)</webMaster>
+    <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
+    <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
     
 	<atom:link href="https://opramachine-blog.netlify.com/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>About OPRAmachine</title>
       <link>https://opramachine-blog.netlify.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
+      <author>Gavin Rozzi (OPRAmachine)</author>
       <guid>https://opramachine-blog.netlify.com/page/about/</guid>
       <description>OPRAmachine is a first of its kind statewide freedom of information portal that helps people obtain public records from New Jersey state and local government agencies.
 This website is the official blog of the project. We will periodically update this blog with information about the project and other items of interest.</description>
