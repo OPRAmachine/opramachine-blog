@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on OPRAmachine Blog</title>
-    <link>https://blog.opramachine.com/categories/uncategorized/</link>
+    <link>http://localhost:1313/categories/uncategorized/</link>
     <description>Recent content in Uncategorized on OPRAmachine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>gr@gavinrozzi.com (Gavin Rozzi)</managingEditor>
     <webMaster>gr@gavinrozzi.com (Gavin Rozzi)</webMaster>
     <lastBuildDate>Wed, 25 Oct 2017 16:14:16 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.opramachine.com/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Video: How OPRAmachine Works</title>
-      <link>https://blog.opramachine.com/video-how-opramachine-works/</link>
+      <link>http://localhost:1313/video-how-opramachine-works/</link>
       <pubDate>Wed, 25 Oct 2017 16:14:16 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>https://blog.opramachine.com/video-how-opramachine-works/</guid>
+      <guid>http://localhost:1313/video-how-opramachine-works/</guid>
       <description>In this video, we give a brief overview of the concept behind OPRAmachine.com.  &amp;nbsp;</description>
     </item>
     
     <item>
       <title>For records custodians: How to respond to an OPRA request using OPRAmachine</title>
-      <link>https://blog.opramachine.com/for-records-custodians-how-to-respond-to-an-opra-request-using-opramachine/</link>
+      <link>http://localhost:1313/for-records-custodians-how-to-respond-to-an-opra-request-using-opramachine/</link>
       <pubDate>Wed, 25 Oct 2017 13:57:30 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>https://blog.opramachine.com/for-records-custodians-how-to-respond-to-an-opra-request-using-opramachine/</guid>
+      <guid>http://localhost:1313/for-records-custodians-how-to-respond-to-an-opra-request-using-opramachine/</guid>
       <description>The upcoming launch of OPRAmachine is going to make it easier for citizens to obtain public records by way of the Open Public Records Act. In this post, we will explain how records custodians at public agencies can effectively utilize OPRAmachine to respond to requests, both via email and through our online web interface.  &amp;nbsp;</description>
     </item>
     
     <item>
       <title>Sign up for the beta test of OPRAmachine</title>
-      <link>https://blog.opramachine.com/sign-up-for-the-beta-test-of-opramachine/</link>
+      <link>http://localhost:1313/sign-up-for-the-beta-test-of-opramachine/</link>
       <pubDate>Sun, 28 May 2017 15:35:58 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>https://blog.opramachine.com/sign-up-for-the-beta-test-of-opramachine/</guid>
+      <guid>http://localhost:1313/sign-up-for-the-beta-test-of-opramachine/</guid>
       <description>NOTE: It is no longer necessary to sign up for the beta. You may register for an account on the public OPRAmachine.com website now. If you are interested in beta testing New Jersey&amp;#8217;s first online government transparency platform, please complete the following form. We will be accepting applications for beta testers, and when the site is ready for testing, a closed beta will take place to collect feedback before launching the site for the general public.</description>
     </item>
     

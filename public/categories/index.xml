@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OPRAmachine Blog</title>
-    <link>https://blog.opramachine.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on OPRAmachine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>gr@gavinrozzi.com (Gavin Rozzi)</managingEditor>
     <webMaster>gr@gavinrozzi.com (Gavin Rozzi)</webMaster>
     <lastBuildDate>Tue, 30 Jan 2018 23:55:25 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.opramachine.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Announcements</title>
-      <link>https://blog.opramachine.com/categories/announcements/</link>
+      <link>http://localhost:1313/categories/announcements/</link>
       <pubDate>Tue, 30 Jan 2018 23:55:25 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>https://blog.opramachine.com/categories/announcements/</guid>
+      <guid>http://localhost:1313/categories/announcements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opramachine News</title>
-      <link>https://blog.opramachine.com/categories/opramachine-news/</link>
+      <link>http://localhost:1313/categories/opramachine-news/</link>
       <pubDate>Mon, 25 Dec 2017 16:37:35 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>https://blog.opramachine.com/categories/opramachine-news/</guid>
+      <guid>http://localhost:1313/categories/opramachine-news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opramachine Users</title>
-      <link>https://blog.opramachine.com/categories/opramachine-users/</link>
+      <link>http://localhost:1313/categories/opramachine-users/</link>
       <pubDate>Mon, 04 Dec 2017 18:10:02 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>https://blog.opramachine.com/categories/opramachine-users/</guid>
+      <guid>http://localhost:1313/categories/opramachine-users/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips  Tricks</title>
-      <link>https://blog.opramachine.com/categories/tips--tricks/</link>
+      <link>http://localhost:1313/categories/tips--tricks/</link>
       <pubDate>Sun, 10 Dec 2017 01:22:29 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>https://blog.opramachine.com/categories/tips--tricks/</guid>
+      <guid>http://localhost:1313/categories/tips--tricks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncategorized</title>
-      <link>https://blog.opramachine.com/categories/uncategorized/</link>
+      <link>http://localhost:1313/categories/uncategorized/</link>
       <pubDate>Wed, 25 Oct 2017 16:14:16 +0000</pubDate>
       <author>gr@gavinrozzi.com (Gavin Rozzi)</author>
-      <guid>https://blog.opramachine.com/categories/uncategorized/</guid>
+      <guid>http://localhost:1313/categories/uncategorized/</guid>
       <description></description>
     </item>
     
