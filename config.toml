@@ -13,7 +13,7 @@ pygmentOptions = "linenos=table"
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Your source for information about New Jersey's government transparency platform."
+  subtitle = "The official blog of New Jersey's government transparency platform."
   logo = "img/favicon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
