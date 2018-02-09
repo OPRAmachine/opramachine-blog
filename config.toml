@@ -51,7 +51,7 @@ disqusShortname = "blog-opramachine-com"
 
 [[menu.main]]
     name = "Request Public Records"
-    url = "https://opramachine.com/request/new/"
+    url = "https://opramachine.com/select_authority"
     weight = 2
 
 [[menu.main]]
