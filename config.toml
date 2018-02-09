@@ -9,7 +9,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentOptions = "linenos=table"
-#disqusShortname = "XXX"
+disqusShortname = "blog-opramachine-com"
 #googleAnalytics = "XXX"
 
 [Params]
