@@ -18,7 +18,9 @@ The database can be obtained in SQLite or CSV format, in addition to being able 
 Note: These archives are not updated in real-time, and will be periodically updated. The latest version [will always be available at this link.][1]
 
 <h4 style="text-align: center;">
-  <a href="https://blog.opramachine.com/wp-content/uploads/2018/01/opramachine_requests.csv">Download here (CSV), January 30th, 2018 revision.</a>
+  <a href="https://blog.opramachine.com/requestdb/opramachine_requests-2-10-18.csv">Download here (CSV), February 10th, 2018 revision.</a>
+
+  <a href="https://blog.opramachine.com/requestdb/opramachine_requests-2-10-18.sqlite">Download here (SQLite), February 10th, 2018 revision.</a>
 </h4>
 
  [1]: https://morph.io/gavinrozzi/opramachine_requests
