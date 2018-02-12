@@ -16,6 +16,7 @@ The database will include an index of all OPRA requests filed through OPRAmachin
 The database can be obtained in SQLite or CSV format, in addition to being able to be accessed over the morph.io API.
 
 Note: These archives are not updated in real-time, and will be periodically updated. The latest version [will always be available at this link.][1]
+Snapshots of the request database will be posted to our [GitHub repository](https://github.com/gavinrozzi/opra-data) as well.
 
 <h4 style="text-align: center;">
   <a href="https://blog.opramachine.com/requestdb/opramachine_requests-2-10-18.csv">Download here (CSV), February 10th, 2018 revision.</a>
