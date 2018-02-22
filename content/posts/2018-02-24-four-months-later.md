@@ -12,18 +12,19 @@ categories:
 
 #### Today marks four months since OPRAmachine was officially launched and made accessible to the general public. Since then, it has been breaking down barriers for access to public information in New Jersey and helping to educate the public about OPRA.
 
-Our October 24th, 2017 launch came after months worth of technical preparation and trial & error as we learned to work with the
-open source [Alaveteli](http://alaveteli.org) software that powers our backend server as well as the technical challenges of
+Our October 24th, 2017 the launch came after months worth of technical preparation and trial & error as we learned to work with the open source [Alaveteli](http://alaveteli.org) software that powers our backend server as well as the technical challenges of
 working with the Ruby on Rails web framework.
 
-## By the numbers
+## OPRAmachine by the numbers
 Since late October, we have seen:
 
-**1249** OPRA requests submitted to public bodies.
+**1250** OPRA requests were submitted to public bodies across the state by site users in our first four months of operation.
 
-**766** public authorities added to our database.
+**766** public authorities, including all **565** municipalities in New Jersey added to our database.
 
+We have processed **15** requests from municipalities and citizens to change or update public bodies on OPRAmachine.
 
+**3** lawsuits were filed in New Jersey Superior Court regarding alleged unlawful denials of access to public records.
 
 ## How we are making an impact
 
@@ -36,10 +37,11 @@ implemented. Paralegals have similarly been
 
 **Public Officials** have been making use of our platform to research responses to requests from neighboring counties / municipalities and jurisdictions
 
-**Journalists** have used the public records obtained via OPRAmachine to add authoritative information to their stories.
+**Journalists** have used the public records obtained via OPRAmachine to add public records to their stories and help be.
+
+**Non-profit organizations** have used OPRAmachine to support their missions, such as analyzing the amount of [free legal services provided to senior citizens.](https://opramachine.com/request/contracts_for_provision_of_legal)
 
 **Concerned Citizens** are using OPRAmachine to obtain records about local government & law enforcement issues. In some cases, individuals have registered on the site solely to receive notifications about the status of certain requests filed by other users rather than filing new requests of their own.
-
 
 ## The challenges we have faced
 
@@ -52,7 +54,6 @@ For example, [Jackson Township](https://opramachine.com/body/jackson_township) w
 
 We are thankful to the local government officials that have worked with us to resolve the issues, and remain ready and willing to
 work cooperatively when the opportunity presents itself.
-
 
 ## The future
 
