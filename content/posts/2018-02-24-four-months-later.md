@@ -1,5 +1,5 @@
 ---
-title: Four Months Later, OPRAmachine is making an impact
+title: Four months later, OPRAmachine is making an impact
 author: Gavin Rozzi
 type: post
 draft: false
