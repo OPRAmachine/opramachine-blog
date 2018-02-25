@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Mon, 19 Feb 2018 12:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2018 12:00:25 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Four months later, OPRAmachine is making an impact</title>
+      <link>https://blog.opramachine.com/four-months-later-opramachine-making-an-impact/</link>
+      <pubDate>Sat, 24 Feb 2018 12:00:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/four-months-later-opramachine-making-an-impact/</guid>
+      <description>Today marks four months since OPRAmachine was officially launched and made accessible to the general public. Since then, it has been breaking down barriers for access to public information in New Jersey and helping to educate the public about OPRA. Our October 24th, 2017 the launch came after several months worth of technical preparation and trial &amp;amp; error as we learned to work with the open source Alavetelisoftware that powers our backend server as well as the technical challenges of managing the various components of the web service.</description>
+    </item>
     
     <item>
       <title>OPRA litigation update</title>
