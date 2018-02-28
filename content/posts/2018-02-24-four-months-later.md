@@ -34,7 +34,7 @@ As OPRAmachine has developed into a statewide freedom of information platform fo
 **Journalists** have used the public records obtained via OPRAmachine to drive stories about state and local government hiring, spending and other activities.
 
 **Law firms** are using OPRAmachine to make requests for documents and information that supplements discovery materials for their cases. Some attorneys are using the site to study specific types of requests in order to be more familiar with how OPRA is being
-implemented. Paralegals have similarly been
+implemented.
 
 **Private investigators** are using OPRAmachine to further their investigations through the use of public records.
 
