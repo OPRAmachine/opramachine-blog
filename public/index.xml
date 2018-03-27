@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Combating spam responses to OPRA requests</title>
+      <link>https://blog.opramachine.com/spam-on-opra-requests-2018/</link>
+      <pubDate>Mon, 19 Feb 2018 12:00:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/spam-on-opra-requests-2018/</guid>
+      <description>Recently, multiple users have brought it to our attention that they have been receiving spam links to viruses or questionable websites in response ot their OPRA requests.
+Today, we have taken action to combat the recent rise in spam that has been impacting our users and cluttering request pages. OPRAmachine has increased our capabilities for dealing with spam, and going forward, spam messages that are flagged by our system will be held back before going out to users and being published to request pages.</description>
+    </item>
+    
+    <item>
       <title>OPRA litigation update</title>
       <link>https://blog.opramachine.com/opra-litigation-update-feb-18/</link>
       <pubDate>Mon, 19 Feb 2018 12:00:25 +0000</pubDate>
