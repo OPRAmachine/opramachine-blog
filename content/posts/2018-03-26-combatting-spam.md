@@ -11,7 +11,7 @@ categories:
 ---
 
 Recently, multiple users have brought it to our attention that they have been receiving spam links
-to viruses or questionable websites in response ot their OPRA requests.
+to viruses or questionable websites in response to their OPRA requests.
 
 Today, we have taken action to combat the recent rise in spam that has been impacting our users and cluttering request pages.
 OPRAmachine has increased our capabilities for dealing with spam, and going forward, spam messages

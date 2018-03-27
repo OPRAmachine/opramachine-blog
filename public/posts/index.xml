@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Sat, 24 Feb 2018 12:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Mar 2018 12:21:25 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Combating spam responses to OPRA requests</title>
+      <link>https://blog.opramachine.com/spam-on-opra-requests-2018/</link>
+      <pubDate>Mon, 26 Mar 2018 12:21:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/spam-on-opra-requests-2018/</guid>
+      <description>Recently, multiple users have brought it to our attention that they have been receiving spam links to viruses or questionable websites in response to their OPRA requests.
+Today, we have taken action to combat the recent rise in spam that has been impacting our users and cluttering request pages. OPRAmachine has increased our capabilities for dealing with spam, and going forward, spam messages that are flagged by our system will be held back before going out to users and being published to request pages.</description>
+    </item>
     
     <item>
       <title>Four months later, OPRAmachine is making an impact</title>
@@ -19,16 +29,6 @@
       <author>Gavin Rozzi (OPRAmachine)</author>
       <guid>https://blog.opramachine.com/four-months-later-opramachine-making-an-impact/</guid>
       <description>Today marks four months since OPRAmachine was officially launched and made accessible to the general public. Since then, it has been breaking down barriers for access to public information in New Jersey and helping to educate the public about OPRA. Our October 24th, 2017 the launch came after several months worth of technical preparation and trial &amp;amp; error as we learned to work with the open source Alavetelisoftware that powers our backend server as well as the technical challenges of managing the various components of the web service.</description>
-    </item>
-    
-    <item>
-      <title>Combating spam responses to OPRA requests</title>
-      <link>https://blog.opramachine.com/spam-on-opra-requests-2018/</link>
-      <pubDate>Mon, 19 Feb 2018 12:00:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
-      <guid>https://blog.opramachine.com/spam-on-opra-requests-2018/</guid>
-      <description>Recently, multiple users have brought it to our attention that they have been receiving spam links to viruses or questionable websites in response ot their OPRA requests.
-Today, we have taken action to combat the recent rise in spam that has been impacting our users and cluttering request pages. OPRAmachine has increased our capabilities for dealing with spam, and going forward, spam messages that are flagged by our system will be held back before going out to users and being published to request pages.</description>
     </item>
     
     <item>
