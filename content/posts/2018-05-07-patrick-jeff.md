@@ -1,5 +1,5 @@
 ---
-title: Talking about OPRAmachine's impact on WLFR radio
+title: How an OPRAmachine user is investigating Martin Luther King's ties to New Jersey
 author: Gavin Rozzi
 type: post
 draft: false
