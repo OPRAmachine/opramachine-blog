@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Mon, 26 Mar 2018 12:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 May 2018 16:57:25 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Out of state residents can file OPRA requests, NJ Court Rules</title>
+      <link>https://blog.opramachine.com/out-of-state-opras/</link>
+      <pubDate>Wed, 16 May 2018 16:57:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/out-of-state-opras/</guid>
+      <description>Individuals who are not residents of New Jersey can file legally valid OPRA requests, a state appellate court ruled.
+The court ruling was issued by the Appellate Division of the New Jersey Superior Court in an OPRA lawsuit brought by open government activist Harry Scheeler, who formerly lived in Atlantic County before moving out of state.
+This is good news for our international and out-of-state users of OPRAmachine, who have made use of our platform to obtain public information from New Jersey state and local government agencies.</description>
+    </item>
+    
+    <item>
+      <title>How an OPRAmachine user is investigating Martin Luther King&#39;s ties to New Jersey</title>
+      <link>https://blog.opramachine.com/patrick-duff-jeff-epstein-interview/</link>
+      <pubDate>Mon, 07 May 2018 02:57:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/patrick-duff-jeff-epstein-interview/</guid>
+      <description>Patrick Duff, an OPRAmachine user recently spoke with us to highlight how he is using our platform to conduct public records research regarding the historical significance of South Jersey properties tied to the late civil rights activist Martin Luther King. He also informed us about how one of his public records requests led to a lawsuit against a city government in state Superior Court.
+Our conversation centered on the Open Public Records Act (OPRA), transparency &amp;amp; open government issues centered on my work with public records and how the three of us have made use of my OPRAmachine platform.</description>
+    </item>
+    
+    <item>
+      <title>Talking about OPRAmachine&#39;s impact on WLFR radio</title>
+      <link>https://blog.opramachine.com/talking-about-opramachine-impact-gavin-rozzi-interview/</link>
+      <pubDate>Thu, 05 Apr 2018 16:57:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/talking-about-opramachine-impact-gavin-rozzi-interview/</guid>
+      <description>On April 5th, 2018 I had the distinct pleasure of joining Bill Watt, the host of WLFR 91.7 FM&amp;rsquo;s &amp;ldquo;Watt&amp;rsquo;s the Move&amp;rdquo; to talk about my work with OPRAmachine and open government matters in New Jersey.
+A video of the segment of the show where we dicussed my work with OPRAmachine and its impact can be viewed here.
+ (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.</description>
+    </item>
     
     <item>
       <title>Combating spam responses to OPRA requests</title>
