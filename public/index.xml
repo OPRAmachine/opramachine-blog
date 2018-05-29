@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Wed, 16 May 2018 16:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 May 2018 16:57:25 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lakewood OPRA issue resolved</title>
+      <link>https://blog.opramachine.com/lakewood-update/</link>
+      <pubDate>Tue, 29 May 2018 16:57:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/lakewood-update/</guid>
+      <description>A problem with OPRA requests directed to Lakewood Township (Ocean County) has been resolved by officials from the township clerk&amp;rsquo;s office, according to an email received by an OPRAmachine user when they reported the problem to Lakewood.
+Requests delivered via OPRAmachine sent to Lakewood inadvertently got caught up in the township&amp;rsquo;s spam filter, preventing any of the requests from getting a response from the clerk&amp;rsquo;s office.</description>
+    </item>
     
     <item>
       <title>Out of state residents can file OPRA requests, NJ Court Rules</title>
