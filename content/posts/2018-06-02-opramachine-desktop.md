@@ -3,7 +3,7 @@ title: OPRAmachine now available as a desktop app on Windows & Mac
 author: Gavin Rozzi
 type: post
 draft: false
-date: 2018-06-02T16:57:25+00:00
+date: 2018-06-02T09:30:25+00:00
 url: /opramachine-app
 categories:
   - Announcements

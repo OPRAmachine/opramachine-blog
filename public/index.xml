@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Tue, 29 May 2018 16:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jun 2018 09:30:25 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OPRAmachine now available as a desktop app on Windows &amp; Mac</title>
+      <link>https://blog.opramachine.com/opramachine-app/</link>
+      <pubDate>Sat, 02 Jun 2018 09:30:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/opramachine-app/</guid>
+      <description>OPRAmachine is proud to announce that our service is now available as a desktop application starting immediately.
+Our new desktop application provides the same great functionality our users have come to expect on the main OPRAmachine website, but in a new convenient form factor. Depending on the feedback we receive from the community, we may add additional functionality to this app at a later date, so if you&amp;rsquo;re serious about managing all of your public records requests with OPRAmachine, our app will be something you won&amp;rsquo;t want to miss.</description>
+    </item>
     
     <item>
       <title>Lakewood OPRA issue resolved</title>
