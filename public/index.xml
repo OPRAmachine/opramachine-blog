@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Sat, 02 Jun 2018 09:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 16:57:25 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Additional county governments added to OPRAmachine</title>
+      <link>https://blog.opramachine.com/county-govs-added/</link>
+      <pubDate>Wed, 13 Jun 2018 16:57:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/county-govs-added/</guid>
+      <description>Thanks to the diligent efforts of OPRAmachine administrator Jeff Epstein, we&amp;rsquo;ve added numerous additional county governments to our database of government agencies today.
+The additional county governments added today that are now ready to receive requests via OPRAmachine include:
+Bergen County
+Essex County
+Cumberland County
+Morris County
+Warren County
+Sussex County
+Salem County
+Hudson County
+Click on any of the above links to start a new OPRA request or follow requests and responses from these counties.</description>
+    </item>
     
     <item>
       <title>OPRAmachine now available as a desktop app on Windows &amp; Mac</title>
