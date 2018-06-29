@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Thu, 14 Jun 2018 10:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jun 2018 13:00:25 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webcast - The OPRAmachine API for developers</title>
+      <link>https://blog.opramachine.com/api-webcast/</link>
+      <pubDate>Fri, 29 Jun 2018 13:00:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/api-webcast/</guid>
+      <description>On June 29th we recorded a webcast highlighting how developers can make use of the OPRAmachine API in order to integrate our extensive data about New Jersey public records into their next web project.
+Our JSON REST and RSS API endpoints make getting data about public bodies &amp;amp; OPRA requests from around the state, and we can&amp;rsquo;t wait to see what the data journalism and developer communites are able to create with our data.</description>
+    </item>
+    
+    <item>
+      <title>Podcast on recent OPRAmachine developments with Jeff Epstein</title>
+      <link>https://blog.opramachine.com/june-2018-update/</link>
+      <pubDate>Mon, 25 Jun 2018 13:00:25 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/june-2018-update/</guid>
+      <description>The thousand-dollar email metadata. Pushback from problematic government agencies. Technical challenges of running a statewide freedom of information portal and cutting-edge case law. These are just a few of the topics we address in the latest OPRAmachine podcast interview.
+On June 21st, I had the pleasure of joining Jeff Epstein of Citizens&amp;rsquo; Media TV for a brief interview addressing some recent developments with OPRAmachine and interesting requests and responses generated in the course of its operation.</description>
+    </item>
     
     <item>
       <title>Legislature moving forward on OPRA reform</title>

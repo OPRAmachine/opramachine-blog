@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.opramachine.com/api-webcast/</loc>
+    <lastmod>2018-06-29T13:00:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opramachine.com/june-2018-update/</loc>
+    <lastmod>2018-06-25T13:00:25+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.opramachine.com/opra-reform-2018/</loc>
     <lastmod>2018-06-14T10:00:25+00:00</lastmod>
   </url>
@@ -129,7 +139,7 @@
   
   <url>
     <loc>https://blog.opramachine.com/</loc>
-    <lastmod>2018-06-14T10:00:25+00:00</lastmod>
+    <lastmod>2018-06-29T13:00:25+00:00</lastmod>
   </url>
   
   <url>
@@ -138,13 +148,13 @@
   
   <url>
     <loc>https://blog.opramachine.com/categories/announcements/</loc>
-    <lastmod>2018-06-14T10:00:25+00:00</lastmod>
+    <lastmod>2018-06-29T13:00:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.opramachine.com/categories/</loc>
-    <lastmod>2018-06-14T10:00:25+00:00</lastmod>
+    <lastmod>2018-06-29T13:00:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -173,7 +183,7 @@
   
   <url>
     <loc>https://blog.opramachine.com/posts/</loc>
-    <lastmod>2018-06-14T10:00:25+00:00</lastmod>
+    <lastmod>2018-06-29T13:00:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
