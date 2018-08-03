@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Fri, 29 Jun 2018 13:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Become an OPRA expert with our free webinar</title>
+      <link>https://blog.opramachine.com/montclair-webinar/</link>
+      <pubDate>Fri, 03 Aug 2018 11:00:00 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/montclair-webinar/</guid>
+      <description>In partnership with the Montclair University Center for Cooperative Media, OPRAmachine Founder Gavin Rozzi will be hosting a free in-person and online webinar to talk about how journalists can harness the power of OPRAmachine to simplify public records research. Rozzi will give a step-by-step demonstration along with taking audience questions at the conclusion of the presentation.
+Here is Montclair&amp;rsquo;s official announcement of the event, copied below:
+&amp;ldquo;Opening up New Jersey government, one request at a time.</description>
+    </item>
     
     <item>
       <title>Webcast - The OPRAmachine API for developers</title>
