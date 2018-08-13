@@ -1,15 +1,20 @@
 baseurl = "https://blog.opramachine.com"
 DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
 title = "OPRAmachine Blog"
-theme = "hugo-theme-bleak"
+theme = "beautifulhugo"
 metaDataFormat = "yaml"
-disqus = "blog-opramachine-com"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentOptions = "linenos=table"
+disqusShortname = "blog-opramachine-com"
 #googleAnalytics = "XXX"
 
-[params]
-  Subtitle = "The official blog of New Jersey's government transparency platform."
+[Params]
+  subtitle = "The official blog of New Jersey's government transparency platform."
   logo = "img/favicon.png"
-  cover = "img/homepage-background.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -30,12 +35,12 @@ disqus = "blog-opramachine-com"
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
-[params.author]
+[Author]
   name = "OPRAmachine"
   website = "https://gavinrozzi.com"
+  email = "Gavin Rozzi"
   facebook = "opramachine"
   github = "gavinrozzi"
-  image = "img/favicon.jpg"
   twitter = "opramachine"
   youtube = "channel/UC6gZYhaHQsnjHkngEWEF2Aw" # or channel/channelname
 
