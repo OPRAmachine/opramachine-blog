@@ -5,8 +5,6 @@
     <link>https://blog.opramachine.com/categories/opramachine-news/</link>
     <description>Recent content in Opramachine News on OPRAmachine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
-    <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
     <lastBuildDate>Mon, 25 Dec 2017 16:37:35 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/categories/opramachine-news/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +14,7 @@
       <title>Merry Christmas from the OPRAmachine team</title>
       <link>https://blog.opramachine.com/merry-christmas-from-the-opramachine-team/</link>
       <pubDate>Mon, 25 Dec 2017 16:37:35 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/merry-christmas-from-the-opramachine-team/</guid>
       <description></description>
     </item>
@@ -25,7 +23,7 @@
       <title>New &amp; Improved OPRAmachine Documentation Now Available</title>
       <link>https://blog.opramachine.com/new-improved-opramachine-documentation-now-available/</link>
       <pubDate>Mon, 25 Dec 2017 06:01:17 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/new-improved-opramachine-documentation-now-available/</guid>
       <description>Today, OPRAmachine announces the launch of our new documentation website, docs.opramachine.com. Our new documentation website is designed to be a centralized hub for answers to some of the frequently asked questions received by the site administration about how the site works. The new documentation website will include request templates, guides on how to use the site&amp;#8217;s functionality, as well as specific guides for requesters and custodians of records making use of OPRAmachine.</description>
     </item>
@@ -34,7 +32,7 @@
       <title>Gavin Rozzi interviewed about OPRAmachine</title>
       <link>https://blog.opramachine.com/gavin-rozzi-interviewed-about-opramachine/</link>
       <pubDate>Wed, 06 Dec 2017 19:16:15 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/gavin-rozzi-interviewed-about-opramachine/</guid>
       <description>OPRAmachine founder Gavin Rozzi was recently interviewed about the site&amp;#8217;s first month by the mySociety Foundation, a UK-based nonprofit that created the software that powers the site. Read the full interview here.</description>
     </item>

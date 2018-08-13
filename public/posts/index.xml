@@ -5,8 +5,6 @@
     <link>https://blog.opramachine.com/posts/</link>
     <description>Recent content in Posts on OPRAmachine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
-    <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
     <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +14,7 @@
       <title>Jeff Epstein interviews OPRA attorney CJ Griffin</title>
       <link>https://blog.opramachine.com/jeff-cj-interview/</link>
       <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/jeff-cj-interview/</guid>
       <description>OPRAmachine adminstrator &amp;amp; indepdendent journalist Jeff Epstein recently interviewed CJ Griffin, Esq. of the firm Pashman Stein Walder Hayden. Griffin has developed a reputation as one of the leading OPRA advocates in the state. They discussed numerous issues, some of which touched on the OPRAmachine platform and challenges that we have encountered.
  </description>
@@ -26,7 +24,7 @@
       <title>Become an OPRA expert with our free webinar</title>
       <link>https://blog.opramachine.com/montclair-webinar/</link>
       <pubDate>Fri, 03 Aug 2018 11:00:00 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/montclair-webinar/</guid>
       <description>In partnership with the Montclair University Center for Cooperative Media, OPRAmachine Founder Gavin Rozzi will be hosting a free in-person and online webinar to talk about how journalists can harness the power of OPRAmachine to simplify public records research. Rozzi will give a step-by-step demonstration along with taking audience questions at the conclusion of the presentation.
 Here is Montclair&amp;rsquo;s official announcement of the event, copied below:
@@ -37,7 +35,7 @@ Here is Montclair&amp;rsquo;s official announcement of the event, copied below:
       <title>Webcast - The OPRAmachine API for developers</title>
       <link>https://blog.opramachine.com/api-webcast/</link>
       <pubDate>Fri, 29 Jun 2018 13:00:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/api-webcast/</guid>
       <description>On June 29th we recorded a webcast highlighting how developers can make use of the OPRAmachine API in order to integrate our extensive data about New Jersey public records into their next web project.
 Our JSON REST and RSS API endpoints make getting data about public bodies &amp;amp; OPRA requests from around the state, and we can&amp;rsquo;t wait to see what the data journalism and developer communites are able to create with our data.</description>
@@ -47,7 +45,7 @@ Our JSON REST and RSS API endpoints make getting data about public bodies &amp;a
       <title>Podcast on recent OPRAmachine developments with Jeff Epstein</title>
       <link>https://blog.opramachine.com/june-2018-update/</link>
       <pubDate>Mon, 25 Jun 2018 13:00:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/june-2018-update/</guid>
       <description>The thousand-dollar email metadata. Pushback from problematic government agencies. Technical challenges of running a statewide freedom of information portal and cutting-edge case law. These are just a few of the topics we address in the latest OPRAmachine podcast interview.
 On June 21st, I had the pleasure of joining Jeff Epstein of Citizens&amp;rsquo; Media TV for a brief interview addressing some recent developments with OPRAmachine and interesting requests and responses generated in the course of its operation.</description>
@@ -57,7 +55,7 @@ On June 21st, I had the pleasure of joining Jeff Epstein of Citizens&amp;rsquo; 
       <title>Legislature moving forward on OPRA reform</title>
       <link>https://blog.opramachine.com/opra-reform-2018/</link>
       <pubDate>Thu, 14 Jun 2018 10:00:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/opra-reform-2018/</guid>
       <description>The New Jersey State Senate Government, Wagering, Tourism &amp;amp; Historic Preservation Commmittee is expected to take action on the OPRA and OPMA reform bills this Thursday, June 14th, 2018.
 The OPRA reform measure under consideration will, among other things, expand attorney fee awards for prevailing OPRA litigants as well as ensuring that subcommitees of governing bodies are subject to more stringent transparency &amp;amp; disclosure requirements under the law.
@@ -68,7 +66,7 @@ The OPRAmachine team supports expanding the scope of OPRA as well as attorney fe
       <title>Additional county governments added to OPRAmachine</title>
       <link>https://blog.opramachine.com/county-govs-added/</link>
       <pubDate>Wed, 13 Jun 2018 16:57:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/county-govs-added/</guid>
       <description>Thanks to the diligent efforts of OPRAmachine administrator Jeff Epstein, we&amp;rsquo;ve added numerous additional county governments to our database of government agencies today.
 The additional county governments added today that are now ready to receive requests via OPRAmachine include:
@@ -87,7 +85,7 @@ Click on any of the above links to start a new OPRA request or follow requests a
       <title>OPRAmachine now available as a desktop app on Windows &amp; Mac</title>
       <link>https://blog.opramachine.com/opramachine-app/</link>
       <pubDate>Sat, 02 Jun 2018 09:30:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/opramachine-app/</guid>
       <description>OPRAmachine is proud to announce that our service is now available as a desktop application starting immediately.
 Our new desktop application provides the same great functionality our users have come to expect on the main OPRAmachine website, but in a new convenient form factor. Depending on the feedback we receive from the community, we may add additional functionality to this app at a later date, so if you&amp;rsquo;re serious about managing all of your public records requests with OPRAmachine, our app will be something you won&amp;rsquo;t want to miss.</description>
@@ -97,7 +95,7 @@ Our new desktop application provides the same great functionality our users have
       <title>Lakewood OPRA issue resolved</title>
       <link>https://blog.opramachine.com/lakewood-update/</link>
       <pubDate>Tue, 29 May 2018 16:57:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/lakewood-update/</guid>
       <description>A problem with OPRA requests directed to Lakewood Township (Ocean County) has been resolved by officials from the township clerk&amp;rsquo;s office, according to an email received by an OPRAmachine user when they reported the problem to Lakewood.
 Requests delivered via OPRAmachine sent to Lakewood inadvertently got caught up in the township&amp;rsquo;s spam filter, preventing any of the requests from getting a response from the clerk&amp;rsquo;s office.</description>
@@ -107,7 +105,7 @@ Requests delivered via OPRAmachine sent to Lakewood inadvertently got caught up 
       <title>Out of state residents can file OPRA requests, NJ Court Rules</title>
       <link>https://blog.opramachine.com/out-of-state-opras/</link>
       <pubDate>Wed, 16 May 2018 16:57:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/out-of-state-opras/</guid>
       <description>Individuals who are not residents of New Jersey can file legally valid OPRA requests, a state appellate court ruled.
 The court ruling was issued by the Appellate Division of the New Jersey Superior Court in an OPRA lawsuit brought by open government activist Harry Scheeler, who formerly lived in Atlantic County before moving out of state.
@@ -118,7 +116,7 @@ This is good news for our international and out-of-state users of OPRAmachine, w
       <title>How an OPRAmachine user is investigating Martin Luther King&#39;s ties to New Jersey</title>
       <link>https://blog.opramachine.com/patrick-duff-jeff-epstein-interview/</link>
       <pubDate>Mon, 07 May 2018 02:57:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/patrick-duff-jeff-epstein-interview/</guid>
       <description>Patrick Duff, an OPRAmachine user recently spoke with us to highlight how he is using our platform to conduct public records research regarding the historical significance of South Jersey properties tied to the late civil rights activist Martin Luther King. He also informed us about how one of his public records requests led to a lawsuit against a city government in state Superior Court.
 Our conversation centered on the Open Public Records Act (OPRA), transparency &amp;amp; open government issues centered on my work with public records and how the three of us have made use of my OPRAmachine platform.</description>
@@ -128,7 +126,7 @@ Our conversation centered on the Open Public Records Act (OPRA), transparency &a
       <title>Talking about OPRAmachine&#39;s impact on WLFR radio</title>
       <link>https://blog.opramachine.com/talking-about-opramachine-impact-gavin-rozzi-interview/</link>
       <pubDate>Thu, 05 Apr 2018 16:57:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/talking-about-opramachine-impact-gavin-rozzi-interview/</guid>
       <description>On April 5th, 2018 I had the distinct pleasure of joining Bill Watt, the host of WLFR 91.7 FM&amp;rsquo;s &amp;ldquo;Watt&amp;rsquo;s the Move&amp;rdquo; to talk about my work with OPRAmachine and open government matters in New Jersey.
 A video of the segment of the show where we dicussed my work with OPRAmachine and its impact can be viewed here.
@@ -139,7 +137,7 @@ A video of the segment of the show where we dicussed my work with OPRAmachine an
       <title>Combating spam responses to OPRA requests</title>
       <link>https://blog.opramachine.com/spam-on-opra-requests-2018/</link>
       <pubDate>Mon, 26 Mar 2018 12:21:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/spam-on-opra-requests-2018/</guid>
       <description>Recently, multiple users have brought it to our attention that they have been receiving spam links to viruses or questionable websites in response to their OPRA requests.
 Today, we have taken action to combat the recent rise in spam that has been impacting our users and cluttering request pages. OPRAmachine has increased our capabilities for dealing with spam, and going forward, spam messages that are flagged by our system will be held back before going out to users and being published to request pages.</description>
@@ -149,7 +147,7 @@ Today, we have taken action to combat the recent rise in spam that has been impa
       <title>Four months later, OPRAmachine is making an impact</title>
       <link>https://blog.opramachine.com/four-months-later-opramachine-making-an-impact/</link>
       <pubDate>Sat, 24 Feb 2018 12:00:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/four-months-later-opramachine-making-an-impact/</guid>
       <description>Today marks four months since OPRAmachine was officially launched and made accessible to the general public. Since then, it has been breaking down barriers for access to public information in New Jersey and helping to educate the public about OPRA. Our October 24th, 2017 the launch came after several months worth of technical preparation and trial &amp;amp; error as we learned to work with the open source Alavetelisoftware that powers our backend server as well as the technical challenges of managing the various components of the web service.</description>
     </item>
@@ -158,7 +156,7 @@ Today, we have taken action to combat the recent rise in spam that has been impa
       <title>OPRA litigation update</title>
       <link>https://blog.opramachine.com/opra-litigation-update-feb-18/</link>
       <pubDate>Mon, 19 Feb 2018 12:00:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/opra-litigation-update-feb-18/</guid>
       <description>Some requests filed by users of OPRAmachine have resulted in litigation against public agencies for their denial of requests. All of these lawsuits have been filed after requests were originally sent out through our platform. Here are some notable cases of interest:
 Rozzi v. Office of the Attorney General We have encountered heavy resistance from the state attorney general&amp;rsquo;s office, as the office has refused to provide emailed responses to OPRA requests submitted by our system.</description>
@@ -168,7 +166,7 @@ Rozzi v. Office of the Attorney General We have encountered heavy resistance fro
       <title>Downloadable database of OPRA requests now available</title>
       <link>https://blog.opramachine.com/downloadable-database-of-opra-requests-now-available/</link>
       <pubDate>Tue, 30 Jan 2018 23:55:25 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/downloadable-database-of-opra-requests-now-available/</guid>
       <description>We are making available a downloadable database of all OPRA requests filed through OPRAmachine for analysis and research purposes. The database will include an index of all OPRA requests filed through OPRAmachine, as well as the current state of each request. We hope this database will be a valuable research tool for those studying OPRA and state &amp;amp; local government in New Jersey.
 The database can be obtained in SQLite or CSV format, in addition to being able to be accessed over the morph.</description>
@@ -178,7 +176,7 @@ The database can be obtained in SQLite or CSV format, in addition to being able 
       <title>Merry Christmas from the OPRAmachine team</title>
       <link>https://blog.opramachine.com/merry-christmas-from-the-opramachine-team/</link>
       <pubDate>Mon, 25 Dec 2017 16:37:35 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/merry-christmas-from-the-opramachine-team/</guid>
       <description></description>
     </item>
@@ -187,7 +185,7 @@ The database can be obtained in SQLite or CSV format, in addition to being able 
       <title>New &amp; Improved OPRAmachine Documentation Now Available</title>
       <link>https://blog.opramachine.com/new-improved-opramachine-documentation-now-available/</link>
       <pubDate>Mon, 25 Dec 2017 06:01:17 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/new-improved-opramachine-documentation-now-available/</guid>
       <description>Today, OPRAmachine announces the launch of our new documentation website, docs.opramachine.com. Our new documentation website is designed to be a centralized hub for answers to some of the frequently asked questions received by the site administration about how the site works. The new documentation website will include request templates, guides on how to use the site&amp;#8217;s functionality, as well as specific guides for requesters and custodians of records making use of OPRAmachine.</description>
     </item>
@@ -196,7 +194,7 @@ The database can be obtained in SQLite or CSV format, in addition to being able 
       <title>Sunlight Foundation Covers Launch of OPRAmachine</title>
       <link>https://blog.opramachine.com/sunlight-foundation-covers-launch-of-opramachine/</link>
       <pubDate>Mon, 18 Dec 2017 02:59:31 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/sunlight-foundation-covers-launch-of-opramachine/</guid>
       <description>The Sunlight Foundation, a respected nonprofit that focuses on governmental transparency issues, recently covered the launch of OPRAmachine. In the charity&amp;#8217;s &amp;#8220;Today in OpenGov&amp;#8221; blog series, they highlighted OPRAmachine as &amp;#8220;&amp;#8230;the first implementation of the Alaveteli platform, to operate purely at the state and local level.&amp;#8221;
 Read their full blog post here.
@@ -207,7 +205,7 @@ Read their full blog post here.
       <title>Webcast: Obtaining court documents &amp; settlement agreements with OPRAmachine</title>
       <link>https://blog.opramachine.com/webcast-obtaining-court-documents-settlement-agreements-with-opramachine/</link>
       <pubDate>Sun, 10 Dec 2017 01:22:29 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/webcast-obtaining-court-documents-settlement-agreements-with-opramachine/</guid>
       <description> In this video, we show examples of successful requests for legal documents served on state &amp;amp; local government submitted by users of OPRAmachine, in addition to covering how to use New Jersey state court databases to obtain information about active lawsuits.  &amp;nbsp;
 The links to the two state court databases used in this webcast are as follows: New Jersey Superior Court ACMS Public Access New Jersey Superior Court Civil Motion Calendar </description>
@@ -217,7 +215,7 @@ The links to the two state court databases used in this webcast are as follows: 
       <title>1000 Requests</title>
       <link>https://blog.opramachine.com/1000-requests/</link>
       <pubDate>Fri, 08 Dec 2017 05:42:07 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/1000-requests/</guid>
       <description>Yesterday, we celebrated the milestone of 1000 OPRA requests filed via OPRAmachine since our launch in late October. Thousands of pages of government documents are now freely available to members of the public on our site. Thank you to our supporters, users and the dedicated civil servants who have made this all possible!</description>
     </item>
@@ -226,7 +224,7 @@ The links to the two state court databases used in this webcast are as follows: 
       <title>Gavin Rozzi interviewed about OPRAmachine</title>
       <link>https://blog.opramachine.com/gavin-rozzi-interviewed-about-opramachine/</link>
       <pubDate>Wed, 06 Dec 2017 19:16:15 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/gavin-rozzi-interviewed-about-opramachine/</guid>
       <description>OPRAmachine founder Gavin Rozzi was recently interviewed about the site&amp;#8217;s first month by the mySociety Foundation, a UK-based nonprofit that created the software that powers the site. Read the full interview here.</description>
     </item>
@@ -235,7 +233,7 @@ The links to the two state court databases used in this webcast are as follows: 
       <title>Case Study: Local News Website Uses OPRAmachine to Uncover Out-of-Court Sexual Harassment Settlements</title>
       <link>https://blog.opramachine.com/case-study-local-news-website-uses-opramachine-to-uncover-out-of-court-sexual-harassment-settlements/</link>
       <pubDate>Mon, 04 Dec 2017 18:10:02 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/case-study-local-news-website-uses-opramachine-to-uncover-out-of-court-sexual-harassment-settlements/</guid>
       <description>ATLANTIC COUNTY &amp;#8211; One local news website editor is using OPRAmachine&amp;#8217;s ability to obtain public records to write about sexual harassment claims that were settled by county officials, reporting details that were previously unknown to the public with the help of our system.
 This weekend local news site Atlantic County News published an article detailing how that site&amp;#8217;s editor made use of OPRAmachine in order to obtain records regarding several recent out-of-court sexual harassment settlements that involved allegations made against county officials.</description>
@@ -245,7 +243,7 @@ This weekend local news site Atlantic County News published an article detailing
       <title>Track your town’s public records requests on OPRAmachine</title>
       <link>https://blog.opramachine.com/track-your-towns-public-records-requests-on-opramachine/</link>
       <pubDate>Fri, 24 Nov 2017 15:05:19 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/track-your-towns-public-records-requests-on-opramachine/</guid>
       <description>You can use OPRAmachine to easily receive email alerts for specific towns and government agencies as they receive and respond to requests for public records made using our website. Even if you don&amp;#8217;t use the site to make your own public records requests, you can become informed about the activities of New Jersey state and local government with OPRAmachine email alerts tailored specifically to the towns and requests you&amp;#8217;d like to follow.</description>
     </item>
@@ -254,7 +252,7 @@ This weekend local news site Atlantic County News published an article detailing
       <title>Delivery issues on some requests</title>
       <link>https://blog.opramachine.com/delivery-issues-on-some-requests/</link>
       <pubDate>Fri, 17 Nov 2017 22:43:14 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/delivery-issues-on-some-requests/</guid>
       <description>Some requests have been having delivery issues, currently to at least one municipality and one county. The purpose of this blog post is to provide guidance to both members of public sector IT departments / records custodians and the requestors that use OPRAmachine to request information. Are you a records custodian or government official? Please pass this post along to your IT department. Inevitably, as OPRAmachine users make use of the site&amp;#8217;s capabilities to send requests to more towns, some firewalls may inadvertently prevent our emails from getting delivered.</description>
     </item>
@@ -263,7 +261,7 @@ This weekend local news site Atlantic County News published an article detailing
       <title>Access the records of every N.J. Municipality</title>
       <link>https://blog.opramachine.com/access-the-records-of-every-n-j-municipality/</link>
       <pubDate>Tue, 07 Nov 2017 18:20:45 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/access-the-records-of-every-n-j-municipality/</guid>
       <description>As of today we are proud to announce that OPRAmachine now reaches every municipality in every county of the State of New Jersey. We now have every municipal government added to our database. This is certainly a milestone for OPRAmachine, but our work is far from over. We still need help adding municipal utilities authorities and various county government agencies.
 &amp;nbsp;</description>
@@ -273,7 +271,7 @@ This weekend local news site Atlantic County News published an article detailing
       <title>Video: How OPRAmachine Works</title>
       <link>https://blog.opramachine.com/video-how-opramachine-works/</link>
       <pubDate>Wed, 25 Oct 2017 16:14:16 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/video-how-opramachine-works/</guid>
       <description>In this video, we give a brief overview of the concept behind OPRAmachine.com.  &amp;nbsp;</description>
     </item>
@@ -282,7 +280,7 @@ This weekend local news site Atlantic County News published an article detailing
       <title>For records custodians: How to respond to an OPRA request using OPRAmachine</title>
       <link>https://blog.opramachine.com/for-records-custodians-how-to-respond-to-an-opra-request-using-opramachine/</link>
       <pubDate>Wed, 25 Oct 2017 13:57:30 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/for-records-custodians-how-to-respond-to-an-opra-request-using-opramachine/</guid>
       <description>The upcoming launch of OPRAmachine is going to make it easier for citizens to obtain public records by way of the Open Public Records Act. In this post, we will explain how records custodians at public agencies can effectively utilize OPRAmachine to respond to requests, both via email and through our online web interface.  &amp;nbsp;</description>
     </item>
@@ -291,7 +289,7 @@ This weekend local news site Atlantic County News published an article detailing
       <title>Volunteers needed for data collection</title>
       <link>https://blog.opramachine.com/volunteers-needed-for-data-collection/</link>
       <pubDate>Tue, 18 Jul 2017 14:54:24 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/volunteers-needed-for-data-collection/</guid>
       <description>We are seeking volunteers to help fill OPRAmachine with more governmental agencies. This is an easy way to get involved in help making government accountable and accessible from the comfort of your home. As it stands now, OPRAmachine will be launching in beta with support for all 33 municipalities, MUAs, school boards and housing authorities for Ocean County. It is the goal of the development team to expand on a county-by-county basis throughout New Jersey in order to bring this powerful tool to more citizens following our launch in Ocean County.</description>
     </item>
@@ -300,7 +298,7 @@ This weekend local news site Atlantic County News published an article detailing
       <title>Sign up for the beta test of OPRAmachine</title>
       <link>https://blog.opramachine.com/sign-up-for-the-beta-test-of-opramachine/</link>
       <pubDate>Sun, 28 May 2017 15:35:58 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/sign-up-for-the-beta-test-of-opramachine/</guid>
       <description>NOTE: It is no longer necessary to sign up for the beta. You may register for an account on the public OPRAmachine.com website now. If you are interested in beta testing New Jersey&amp;#8217;s first online government transparency platform, please complete the following form. We will be accepting applications for beta testers, and when the site is ready for testing, a closed beta will take place to collect feedback before launching the site for the general public.</description>
     </item>

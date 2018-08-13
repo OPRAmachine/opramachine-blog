@@ -5,8 +5,6 @@
     <link>https://blog.opramachine.com/categories/</link>
     <description>Recent content in Categories on OPRAmachine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
-    <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
     <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +14,7 @@
       <title>Announcements</title>
       <link>https://blog.opramachine.com/categories/announcements/</link>
       <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/categories/announcements/</guid>
       <description></description>
     </item>
@@ -25,7 +23,7 @@
       <title>Opramachine News</title>
       <link>https://blog.opramachine.com/categories/opramachine-news/</link>
       <pubDate>Mon, 25 Dec 2017 16:37:35 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/categories/opramachine-news/</guid>
       <description></description>
     </item>
@@ -34,7 +32,7 @@
       <title>Opramachine Users</title>
       <link>https://blog.opramachine.com/categories/opramachine-users/</link>
       <pubDate>Mon, 04 Dec 2017 18:10:02 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/categories/opramachine-users/</guid>
       <description></description>
     </item>
@@ -43,7 +41,7 @@
       <title>Tips  Tricks</title>
       <link>https://blog.opramachine.com/categories/tips--tricks/</link>
       <pubDate>Sun, 10 Dec 2017 01:22:29 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/categories/tips--tricks/</guid>
       <description></description>
     </item>
@@ -52,7 +50,7 @@
       <title>Uncategorized</title>
       <link>https://blog.opramachine.com/categories/uncategorized/</link>
       <pubDate>Wed, 25 Oct 2017 16:14:16 +0000</pubDate>
-      <author>Gavin Rozzi (OPRAmachine)</author>
+      
       <guid>https://blog.opramachine.com/categories/uncategorized/</guid>
       <description></description>
     </item>
