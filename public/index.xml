@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OPRA webinar at Montclair University</title>
+      <link>https://blog.opramachine.com/montclair-university-opra-webinar/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/montclair-university-opra-webinar/</guid>
+      <description>We recently hosted a webinar at the Montclair University Center for Cooperative Media. We discussed tips and tricks for using OPRAmachine, how the site has served as a public records research tool and platform, along with some of the challenges and interesting use cases for the site.
+   &amp;nbsp;
+The webinar was attended by both journalists and other individuals interested in making use of the advanced public records research capabilities provided by our platform.</description>
+    </item>
     
     <item>
       <title>Jeff Epstein interviews OPRA attorney CJ Griffin</title>
