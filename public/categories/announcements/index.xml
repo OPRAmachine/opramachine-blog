@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/categories/announcements/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4 Highlights from the latest OPRAmachine update</title>
+      <link>https://blog.opramachine.com/october-2018-upgrades/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/october-2018-upgrades/</guid>
+      <description>We are pleased to announce the succesful completion of recent upgrades to the underlying code that powers OPRAmachine. After some brief downtime on Saturday, we are pleased to announce the succesful completion of the deployment of the latest changes to the OPRAmachine platform.
+Here are some of the improvements you can begin taking advantage of immediately:
+1. Collapisble correspondence We&amp;rsquo;ve added the ability to collapse parts of the chain of correspondence on OPRA requests, making it easier to keep things tidy on request threads that have a lot of messages.</description>
+    </item>
+    
+    <item>
+      <title>Countdown to OPRAmachine&#39;s first birthday</title>
+      <link>https://blog.opramachine.com/first-birthday-of-opramachine/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/first-birthday-of-opramachine/</guid>
+      <description>This month, OPRAmachine will be celebrating its first year of revolutionizing public records &amp;amp; transparency throughout New Jersey. The official one year anniversary of the public launch of the OPRAmachine statewide freedom of information portal will be coming up on October 24th, 2018.
+Throughout October, we will be reflecting on what the site has accomplished in its first year of public availability. We&amp;rsquo;ll be talking about the positives, including feedback from users and government officials, in addition to the negatives, such as technical and legal challenges that we have encountered in the course of running the site.</description>
+    </item>
     
     <item>
       <title>Toms River OPRA impasse resolved</title>
