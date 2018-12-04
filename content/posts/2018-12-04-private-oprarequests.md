@@ -22,3 +22,5 @@ You'll find OPRAmachine Pro's features useful if you are an attorney making requ
 ![Private OPRA request](/img/privaterequests.JPG)
 
 Pro accounts help us fund additional server infrastructure so we can continue to deliver the excellent level of service that our users have come to expect. Filing a public OPRA request on OPRAmachine will always be free.
+
+We will also be supporting batch OPRA requests at a later date. Due to a technical issue we have had to delay the implementation of this feature.
