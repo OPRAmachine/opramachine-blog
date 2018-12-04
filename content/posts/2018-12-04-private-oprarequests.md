@@ -17,7 +17,7 @@ With a Pro subscription, you can keep your OPRA requests and documents private, 
 
 This feature is geared toward companies and individuals who use OPRAmachine in a professional capacity, such as law firms, private investigators and corporate users.
 
-Pro accounts are great if you are an attorney making requests on behalf of your clients or a high-volume requestor that needs to make OPRA requests beyond the limit imposed by free accounts. Your subscription includes unlimited OPRA requests and a special dashboard exclusive to Pro users that helps you streamline the entire public records request process
+You'll find OPRAmachine Pro's features useful if you are an attorney making requests on behalf of your clients or a high-volume requestor that needs to make OPRA requests beyond the limit imposed by free accounts. Your Pro subscription includes unlimited OPRA requests and a special dashboard exclusive to Pro users that helps you streamline the entire public records request process.
 
 ![Private OPRA request](/img/privaterequests.JPG)
 
