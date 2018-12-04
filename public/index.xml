@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>Gavin Rozzi (OPRAmachine)</managingEditor>
     <webMaster>Gavin Rozzi (OPRAmachine)</webMaster>
-    <lastBuildDate>Mon, 26 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.opramachine.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Private OPRA requests are here!</title>
+      <link>https://blog.opramachine.com/private-opra-requests-opramachinepro/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      <author>Gavin Rozzi (OPRAmachine)</author>
+      <guid>https://blog.opramachine.com/private-opra-requests-opramachinepro/</guid>
+      <description>We are pleased to announce that you can now file private OPRA requests using OPRAmachine! Private OPRA requests can be filed with public agencies if you have an OPRAmachine Pro subscription.
+With a Pro subscription, you can keep your OPRA requests and documents private, so they won&amp;rsquo;t show up on the site or in search engines.
+This feature is geared toward companies and individuals who use OPRAmachine in a professional capacity, such as law firms, private investigators and corporate users.</description>
+    </item>
     
     <item>
       <title>OPRAmachine lawsuit against Monmouth County being heard Monday</title>
