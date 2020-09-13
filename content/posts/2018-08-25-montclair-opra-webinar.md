@@ -19,3 +19,5 @@ platform, along with some of the challenges and interesting use cases for the si
 The webinar was attended by both journalists and other individuals interested in making use of the advanced public records research capabilities provided by our platform.
 
 Thank you to the folks at the Center who helped put all of this together, and thank you to our attendees who asked insightful questions!
+
+[You can view the slides of the webinar presentation online here.](https://www.gavinrozzi.com/slides/montclair)
